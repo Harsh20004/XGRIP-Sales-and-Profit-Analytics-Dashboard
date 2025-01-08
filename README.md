@@ -4,13 +4,13 @@
 ## **Dashboard Screenshots**  
 
 ### **Sales Overview Dashboard**  
-![Sales Overview](Dashboard1)  
+![Sales Overview](Dashboard1.png)  
 
 ### **Product Analysis Dashboard**  
-![Product Analysis](Dashboard3)  
+![Product Analysis](Dashboard3.png)  
 
 ### **Map Analysis Dashboard**  
-![Map Analysis](Dashboard2)  
+![Map Analysis](Dashboard2.png)  
 
 
 ## **Objective**  
