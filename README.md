@@ -1,9 +1,16 @@
 # XGRIP-Sales-and-Profit-Analytics-Dashboard
 
-# **XGRIP Sales and Profit Analytics Dashboard**  
 
 ## **Dashboard Screenshots**  
 
+### **Sales Overview Dashboard**  
+![Sales Overview](Dashboard1)  
+
+### **Product Analysis Dashboard**  
+![Product Analysis](Dashboard3)  
+
+### **Map Analysis Dashboard**  
+![Map Analysis](Dashboard2)  
 
 
 ## **Objective**  
